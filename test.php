@@ -1,4 +1,3 @@
 <?
-	echo 'Hello, GitHub!';
-	echo "All done!";
+	echo 'This is test!';
 ?>
