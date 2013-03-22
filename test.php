@@ -1,3 +1,4 @@
 <?
 	echo 'This is test!';
+	echo 'This is test1!';
 ?>
